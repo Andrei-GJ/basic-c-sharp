@@ -1,0 +1,8 @@
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\bin\Debug\basic_C.exe.config
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\bin\Debug\basic_C.exe
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\bin\Debug\basic_C.pdb
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\obj\Debug\basic_C.csproj.AssemblyReference.cache
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\obj\Debug\basic_C.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\obj\Debug\basic_C.csproj.CoreCompileInputs.cache
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\obj\Debug\basic_C.exe
+C:\Users\andrei sotelo\Desktop\Estudios\basic-c-sharp\solution_basic_C\basic_C\obj\Debug\basic_C.pdb
